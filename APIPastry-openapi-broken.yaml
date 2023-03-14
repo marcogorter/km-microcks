@@ -184,9 +184,8 @@ components:
           description: Size of pastry (S, M, L)
           type: string
         price:
-          format: double
           description: Price (in USD) of this pastry
-          type: number
+          type: string
         status:
           description: Status in stock (available, out_of_stock)
           type: string

@@ -92,7 +92,7 @@ paths:
                     description: Erik zijn favoriete koekje
                     size: XL
                     price: 1.5
-                    status: unavailable
+                    status: available
             text/xml:
               schema:
                 $ref: '#/components/schemas/Pastry'

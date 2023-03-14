@@ -30,7 +30,7 @@ paths:
                   value:
                   - name: Baba Rhum
                     description: Delicieux Baba au Rhum pas calorique du tout
-                    size: L
+                    size: M
                     price: 3.2
                     status: available
                   - name: Divorces

@@ -1,8 +1,8 @@
 ---
 openapi: 3.0.2
 info:
-  title: API Pastry - 2.0
-  version: 2.0.0
+  title: API Pastry - 2.1
+  version: 2.0.1
   description: API definition of API Pastry sample app
   contact:
     name: Laurent Broudoux

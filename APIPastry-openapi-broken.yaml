@@ -57,6 +57,8 @@ paths:
             value: Eclair Cafe
           Millefeuille:
             value: Millefeuille
+          Bokkepootjes:
+            value: Bokkepootjes
         name: name
         description: pastry name
         schema:
@@ -184,8 +186,9 @@ components:
           description: Size of pastry (S, M, L)
           type: string
         price:
+          format: double
           description: Price (in USD) of this pastry
-          type: string
+          type: number
         status:
           description: Status in stock (available, out_of_stock)
           type: string

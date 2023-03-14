@@ -86,6 +86,13 @@ paths:
                     size: L
                     price: 4.4
                     status: available
+                Bokkepootjes:
+                  value:
+                    name: Bokkepootjes
+                    description: Erik zijn favoriete koekje
+                    size: XL
+                    price: 1.5
+                    status: unavailable
             text/xml:
               schema:
                 $ref: '#/components/schemas/Pastry'

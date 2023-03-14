@@ -90,7 +90,7 @@ paths:
                   value:
                     name: Bokkepootjes
                     description: Erik zijn favoriete koekje
-                    size: XL
+                    size: L
                     price: 1.5
                     status: available
             text/xml:
